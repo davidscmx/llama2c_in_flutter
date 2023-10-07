@@ -75,6 +75,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  hello_world:
+    dependency: "direct main"
+    description:
+      path: hello_world
+      relative: true
+    source: path
+    version: "0.0.1"
   lints:
     dependency: transitive
     description:
