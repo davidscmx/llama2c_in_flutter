@@ -42,3 +42,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.so
+llama2c_exe

@@ -20,3 +20,4 @@ dev_dependencies:
   # or remove it if you want to use this example standalone.
   test_utils:
     path: test_utils
+  ffi: ^2.1.0
